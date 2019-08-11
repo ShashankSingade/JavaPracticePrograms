@@ -1,4 +1,4 @@
-package Cafe;
+package testPrograms;
 
 abstract class Person {
 	String fname= "Shashank Singade";

@@ -1,4 +1,4 @@
-package Cafe;
+package testPrograms;
 
 abstract class Animal {
 	public abstract void animal_sound();

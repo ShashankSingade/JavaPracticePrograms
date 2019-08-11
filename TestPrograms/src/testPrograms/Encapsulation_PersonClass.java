@@ -1,4 +1,4 @@
-package Cafe;
+package testPrograms;
 
 public class Encapsulation_PersonClass {
 	private String name;

@@ -1,4 +1,4 @@
-package Cafe;
+package testPrograms;
 
 class Vehicle{
 	protected String brand = "Honda";

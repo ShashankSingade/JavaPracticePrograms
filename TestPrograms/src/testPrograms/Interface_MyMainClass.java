@@ -1,4 +1,4 @@
-package Cafe;
+package testPrograms;
 
 interface Animal2{
 	public void animalSound();

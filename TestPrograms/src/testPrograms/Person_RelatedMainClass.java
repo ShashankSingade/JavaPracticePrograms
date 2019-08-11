@@ -1,4 +1,4 @@
-package Cafe;
+package testPrograms;
 
 public class Person_RelatedMainClass {
 

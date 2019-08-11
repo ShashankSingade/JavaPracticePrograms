@@ -1,4 +1,4 @@
-package Cafe;
+package testPrograms;
 
 enum Level{
 	LOW,
